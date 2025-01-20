@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="dots" width="10" height="10" patternUnits="userSpaceOnUse">
+      <circle cx="5" cy="5" r="1" fill="white" opacity="0.5"/>
+    </pattern>
+  </defs>
+  
+  <!-- North America -->
+  <path d="M200,100 C250,80 300,70 350,80 C400,90 450,100 500,90 C550,80 600,70 650,80 L700,100 L650,150 C600,160 550,170 500,160 C450,150 400,140 350,150 L300,170 L250,150 Z" 
+    fill="url(#dots)" opacity="0.3"/>
+  
+  <!-- South America -->
+  <path d="M300,250 C350,240 400,250 450,260 L500,300 L450,350 C400,360 350,350 300,340 L250,300 Z" 
+    fill="url(#dots)" opacity="0.3"/>
+  
+  <!-- Europe -->
+  <path d="M500,80 C550,70 600,60 650,70 L700,90 L750,100 C800,110 850,100 900,90 L850,140 C800,150 750,160 700,150 C650,140 600,130 550,140 L500,130 Z" 
+    fill="url(#dots)" opacity="0.3"/>
+  
+  <!-- Africa -->
+  <path d="M500,200 C550,190 600,200 650,210 L700,250 L650,300 C600,310 550,300 500,290 L450,250 Z" 
+    fill="url(#dots)" opacity="0.3"/>
+  
+  <!-- Asia -->
+  <path d="M700,100 C750,90 800,80 850,90 L900,110 L950,150 C900,160 850,170 800,160 L750,140 L700,150 Z" 
+    fill="url(#dots)" opacity="0.3"/>
+  
+  <!-- Australia -->
+  <path d="M800,300 C850,290 900,300 950,310 L900,360 C850,370 800,360 750,350 L800,300 Z" 
+    fill="url(#dots)" opacity="0.3"/>
+</svg> 

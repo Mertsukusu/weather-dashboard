@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="M200,200 L800,200 L800,400 L200,400 Z"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="2"
+    opacity="0.5"
+  />
+  <!-- Simplified US outline -->
+  <path
+    d="M155,210 C180,205 200,200 220,195 L240,190 L260,185 L280,180 L300,175 L320,170 L340,165 L360,160 L380,155 L400,150 L420,145 L440,140 L460,135 L480,130 L500,125 L520,120 L540,115 L560,110 L580,105 L600,100 L620,95 L640,90 L660,85 L680,80 L700,75 L720,70 L740,65 L760,60 L780,55 L800,50 L820,45 L840,40 L860,35 L880,30 L900,25 L920,20 L940,15 L960,10 L980,5"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="2"
+    opacity="0.5"
+  />
+  <!-- Alaska (simplified) -->
+  <path
+    d="M100,350 L150,350 L150,400 L100,400 Z"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="2"
+    opacity="0.5"
+  />
+  <!-- Hawaii (simplified) -->
+  <path
+    d="M200,450 L220,450 L220,470 L200,470 Z"
+    fill="none"
+    stroke="#ffffff"
+    stroke-width="2"
+    opacity="0.5"
+  />
+</svg> 

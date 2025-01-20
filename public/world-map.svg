@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1000" height="500" viewBox="0 0 1000 500" xmlns="http://www.w3.org/2000/svg">
+  <path d="M150,100 Q400,50 600,100 T1000,150 L1000,400 Q750,450 500,400 T0,350 L0,100 Q250,50 500,100 T1000,150" 
+        fill="none" 
+        stroke="currentColor" 
+        stroke-width="1"/>
+  <!-- Add more simplified continent outlines here -->
+</svg> 
