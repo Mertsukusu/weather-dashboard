@@ -1,7 +1,8 @@
 # Weather Dashboard
 
 A modern, responsive weather dashboard application built with React, TypeScript, and Material-UI. The application provides real-time weather information, hourly forecasts, and daily forecasts for multiple cities.
-![alt text](image.png)
+
+<img width="1076" alt="image" src="https://github.com/user-attachments/assets/f6a41e82-a13c-4893-86f1-8c9b669dbff2" />
 
 ## Features
 
